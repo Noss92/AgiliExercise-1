@@ -15,3 +15,14 @@ Les instructions pour la réalisation de ce TP sont simples :
 Faire apparaître et disparaître la barre latérale (1) en cliquant sur l'icône (2) de la navigation en haut à droite.
 
 ![ui](./assets/images/ui.png)
+
+## Comment rendre ta réalisation ?
+
+1. Publie ton code dans un dépôt Github public et envoie-moi le lien du TP.
+2. Déploie également le projet sur GitHub Pages
+
+## Conseils
+
+*Rédige ton algorithme*, fais des recherches sur le web, parcours mes dépôts GitHub et surtout lis la documentation MDN.
+
+Bon TP !
