@@ -1,4 +1,4 @@
-# AgiliExercise-1
+# AgiliExercise n°1
 Pour mes étudiant(e)s
 
 ---
@@ -23,6 +23,6 @@ Faire apparaître et disparaître la barre latérale (1) en cliquant sur l'icôn
 
 ## Conseils
 
-*Rédige ton algorithme*, fais des recherches sur le web, parcours mes dépôts GitHub et surtout lis la documentation MDN.
+**Rédige ton algorithme**, fais des recherches sur le web, parcours mes dépôts GitHub et surtout lis la documentation MDN.
 
 Bon TP !
