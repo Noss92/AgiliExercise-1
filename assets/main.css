@@ -28,7 +28,7 @@ h1, h2, h3, h4, h5, h6 {
 .sidebar_menu { cursor: pointer; }
 
 /* État ouvert */
-.sidebar {
+.sidebar{
     display: none;
     position: fixed;
     right: 0;
@@ -37,8 +37,17 @@ h1, h2, h3, h4, h5, h6 {
     text-align: center;
     background-color: var(--sun);
     box-shadow: 0 0 1em rgba(0, 0, 0, 0.35);
+    transition: width 500ms ease-in;
 }
 /* État fermé (Écris ton code ici ⬇) */
+
+.sidebar.active{
+    display: block;
+    overflow: hidden;
+    width: 0px;
+    transition: width 500ms ease-in;
+
+}
 
 
 
@@ -138,3 +147,7 @@ main section { justify-content: center; background-color: var(--moon); }
 .flex-align-content-between { align-content: space-between; }
 .flex-align-content-around { align-content: space-around; }
 .flex-align-content-evenly { align-content: space-evenly; }
+
+
+
+
